@@ -43,7 +43,6 @@ luac.out
 /*rbxlx.lock
 /*.rbxl.lock
 
-Packages/
-ServerPackages/
+
 sourcemap.json
 wally.lock
