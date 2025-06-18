@@ -39,3 +39,11 @@ luac.out
 *.x86_64
 *.hex
 
+#added
+/*rbxlx.lock
+/*.rbxl.lock
+
+Packages/
+ServerPackages/
+sourcemap.json
+wally.lock
