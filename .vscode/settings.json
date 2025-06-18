@@ -1,0 +1,4 @@
+{
+    "luau-lsp.sourcemap.generatorCommand": "/home/edin/.aftman/bin/rojo sourcemap ~/git-LL/Lords-and-Lieges ",
+    "luau-lsp.sourcemap.useVSCodeWatcher": true
+}
